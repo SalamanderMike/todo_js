@@ -1,0 +1,41 @@
+body {
+	background: -webkit-linear-gradient(right, 	rgba(179, 240, 255,1), 
+												rgba(0,0,0,.1));;
+}
+
+h1 {
+	color: #811378;
+}
+
+h1 em {
+	color: #eb00d7;
+}
+
+label {
+	color: #5c0099;
+}
+
+input {
+	cursor: pointer;
+}
+
+button {
+	-webkit-transition: all .2s ease-in-out;
+}
+
+button:hover {
+	background: #ff85f5;
+	cursor: pointer;
+}
+
+legend {
+	background: #a6dbe8;
+	color: #5c0099;
+	border: 1px solid #89cfe1;
+}
+
+fieldset {
+	background: -webkit-linear-gradient(left, 	rgba(179, 240, 255,1), 
+												rgba(0,0,0,.1));;
+	border: 0px solid #d4d4d4;
+}
